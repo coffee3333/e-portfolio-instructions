@@ -92,8 +92,8 @@ pip install -r requirements.txt # install from a saved snapshot
 
 ### Code Editor
 
-- **PyCharm** — Professional edition has Django-specific tooling
-- **VS Code** (recommended) — install the [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+- **PyCharm** - Professional edition has Django-specific tooling (recommended)
+- **VS Code** - install the [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
 ### API Testing
 
